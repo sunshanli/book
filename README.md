@@ -1,2 +1,2 @@
 # book
-restore varieties of  books 
+store varieties of  books 
